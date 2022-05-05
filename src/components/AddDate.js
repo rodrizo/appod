@@ -29,6 +29,7 @@ export default function AddDate({ setDate }) {
         centerContent
       >
         <Box>
+          <br/>
           <Input
             type="date"
             value={startDate}
@@ -38,7 +39,7 @@ export default function AddDate({ setDate }) {
         </Box>
         <Box marginTop="3" marginBottom="3">
           <Button type="submit" colorScheme="blue">
-            Button
+            Buscar
           </Button>
         </Box>
       </Container>

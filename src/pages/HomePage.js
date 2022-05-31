@@ -21,7 +21,7 @@ export default function HomePage() {
       <ol>
         <Grid templateColumns="repeat(3, 1fr)" gap={10}>
           {date.map((dates) => (
-            <DataGrid key={dates} date={dates} />
+            <DataGrid key={date} date={dates} />
           ))}
         </Grid>
       </ol>

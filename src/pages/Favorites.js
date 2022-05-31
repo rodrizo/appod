@@ -15,11 +15,15 @@ export default function Favorites() {
       id: 1,
       name: "Galaxy M1",
       date: "19-04-2008",
+      url: "https://m1.com",
+      explanation: "A great image of Galaxy M1",
     },
     {
       id: 2,
       name: "Milky Way",
       date: "25-05-1998",
+      url: "https://milky.com",
+      explanation: "A great image of Milky Way",
     },
   ];
   return (

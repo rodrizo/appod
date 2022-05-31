@@ -8,7 +8,7 @@ export default function DataGrid({ date }) {
     <>
       {/* {loading && <p>Loading</p>} */}
         <PictureGridItem
-          key={images.date}
+          key={images.id}
           {...images} //sending all the properties as an unique property
         />
     </>

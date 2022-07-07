@@ -1,6 +1,6 @@
 # APPOD
 
-APPOD es una aplicación capaz de mostrar la imagen **astronómica** del día. Se podrá consultar una enorme galería de imágenes segúnn fechas establecidas.
+APPOD es una aplicación capaz de mostrar la imagen **astronómica** del día. Se podrá consultar una enorme galería de imágenes según fechas establecidas.
 
  🎂 ¡Incluso la foto tomada el día de tu cumpleaños! 🎂
 
